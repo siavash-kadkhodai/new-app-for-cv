@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CvApp</string>
+    <string name="cv_for_siavash">CV FOR SIAVASH</string>
+    <string name="accept_cv">ACCEPT CV</string>
+</resources>
