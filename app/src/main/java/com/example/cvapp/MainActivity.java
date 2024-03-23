@@ -24,6 +24,9 @@ public class MainActivity extends AppCompatActivity {
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_main);
 
+        // This is final project for test and can see github worked true
+        // tnx to see this project for my resume/cv
+
 
         btn_cv = findViewById(R.id.btn_cv);
         txt_cv = findViewById(R.id.txt_cv);
@@ -49,16 +52,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        // this is new commit
-        //rgrgrgrhrh
-
-
-        //ggggggggggggggggggggg
-
-
-        // add this for error
-        // hi
-        // salam
 
     }
 }
